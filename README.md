@@ -1,2 +1,1 @@
-# plugin-signer-qr
-CI-only
+ 1.1.1 (20171130-152739)

@@ -1,7 +1,7 @@
 {
   "name": "@parity/plugin-signer-qr",
   "description": "Parity signer plugin to allow QR codes",
-  "version": "1.2.76",
+  "version": "1.2.77",
   "main": "index.js",
   "author": "Parity Team <admin@parity.io>",
   "maintainers": [],
@@ -46,7 +46,7 @@
     "stylelint-config-standard": "^20.0.0"
   },
   "dependencies": {
-    "@parity/ui": "^3.1.29",
+    "@parity/ui": "^3.1.30",
     "react-intl": "^3.1.8"
   },
   "peerDependencies": {
